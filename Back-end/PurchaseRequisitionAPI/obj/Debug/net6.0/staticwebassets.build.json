@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HvJUlmfHzc3ZhOfv10L5/KVrX3ypUrIWUiAiU0X5uD0=",
+  "Source": "PurchaseRequisitionAPI",
+  "BasePath": "_content/PurchaseRequisitionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
